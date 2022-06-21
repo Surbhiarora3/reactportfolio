@@ -2,12 +2,16 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://surbhiarora3.github.io/reactportfolio/",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "0.0.0-6a589ad71",
     "react-dom": "0.0.0-6a589ad71",
     "react-scripts": "2.1.1"
   },
   "scripts": {
+    "predeploy": "npm run bnpmuild",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

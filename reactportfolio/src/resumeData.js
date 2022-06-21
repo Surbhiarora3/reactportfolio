@@ -23,13 +23,13 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Washington State University gave me oppurtunity to explore the coding web world. Mantra of my Life - Never Stop Learning",
+    "aboutme":"University of Washington gave me oppurtunity to explore the coding web world. Mantra of my Life - Never Stop Learning",
     "address":"Seattle, WA ",
     "website":"https://surbhiarora3.github.io/newPortfolio",
     "email": "arora.surbhi4@gmail.com",
     "education":[
       {
-        "UniversityName":"Washington State University",
+        "UniversityName":"University of Washington",
         "specialization":"Full Stack Web Development",
         "MonthOfPassing":"June",
         "YearOfPassing":"2022",
